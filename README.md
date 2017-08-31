@@ -2,14 +2,14 @@
 
 ## Requirements:
 
-Python 2.7
+1. Python 2.7
 
-simpejson
+2. simpejson
 
-BeautifulSoup4
+3. BeautifulSoup4
 
 ## Usage:
 
 1. Edit the query list
 
-2. python google_image.py
+2. Run the script in shell...
